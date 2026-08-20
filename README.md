@@ -1,6 +1,6 @@
 # Hi, I'm Habiba 👋
 
-Backend Software Engineer focused on **Java / Spring Boot** and **DevOps & infrastructure**. Computer Science graduate from Cairo University (2026), based in Cairo.
+Software Engineer focused on **Java / Spring Boot** and **DevOps & infrastructure**. Computer Science graduate from Cairo University (2026).
 
 ---
 
